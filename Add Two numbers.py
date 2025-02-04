@@ -10,7 +10,7 @@ for i , num in  enumerate(nums):
     index[num]=i
 
 # if you using in from dictionary it will vheck whether that key is present in that particular dictionary.
-# so here we find the difference between the traget and current value and trying to find the difference value present the dictionay, if not we are adding the number as key and index as value because in function key for the key in hash map.
+# so here we find the difference between the traget and current value and trying to find the difference value present the dictionay, we are adding the number as key and index as value because in function key for the key in hash map.
 
 final_value=[]
 for x in range(len(nums)):
